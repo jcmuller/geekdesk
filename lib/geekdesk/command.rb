@@ -69,7 +69,7 @@
 
       # Get the number of units to move
       unless fragments.first =~ /^\d+$/
-        raise "Epecting a number, not #{fragments.first}"
+        raise "Expecting a number, not #{fragments.first}"
       end
 
       # Get the unit of movement
