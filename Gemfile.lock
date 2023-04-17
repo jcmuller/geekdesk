@@ -2,7 +2,7 @@ GEM
   remote: http://rubygems.org/
   specs:
     diff-lcs (1.2.5)
-    ffi (1.9.3)
+    ffi (1.15.5)
     its (0.2.0)
       rspec-core
     piface (0.4.1)
